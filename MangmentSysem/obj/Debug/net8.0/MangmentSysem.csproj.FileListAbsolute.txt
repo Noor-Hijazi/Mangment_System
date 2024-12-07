@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\bin\Debug\net8.0\MangmentSysem.exe
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\bin\Debug\net8.0\MangmentSysem.deps.json
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\bin\Debug\net8.0\MangmentSysem.runtimeconfig.json
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\bin\Debug\net8.0\MangmentSysem.dll
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\bin\Debug\net8.0\MangmentSysem.pdb
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\obj\Debug\net8.0\MangmentSysem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\obj\Debug\net8.0\MangmentSysem.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\obj\Debug\net8.0\MangmentSysem.AssemblyInfo.cs
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\obj\Debug\net8.0\MangmentSysem.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\obj\Debug\net8.0\MangmentSysem.dll
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\obj\Debug\net8.0\refint\MangmentSysem.dll
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\obj\Debug\net8.0\MangmentSysem.pdb
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\obj\Debug\net8.0\MangmentSysem.genruntimeconfig.cache
+C:\Users\dell\source\repos\MangmentSysem\MangmentSysem\obj\Debug\net8.0\ref\MangmentSysem.dll
